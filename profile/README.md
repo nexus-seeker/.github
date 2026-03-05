@@ -1,6 +1,6 @@
 # Kawula
 
-![Kawula Banner](https://raw.githubusercontent.com/nexus-seeker/.github/main/profile/banner.png)
+![Kawula Banner](profile/banner.png)
 
 ## 🌌 AI Agent OS for Solana Mobile
 
