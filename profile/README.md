@@ -18,7 +18,8 @@ Kawula is an AI-native operating system for Solana Mobile. We bridge the gap bet
 
 ### 🌐 Connect
 
-[X (Twitter)](https://x.com/Kawula_AI) • [Discord](https://discord.gg/kawula) • [kawula.io](https://kawula.io)
+[X (Twitter)](https://x.com/Kawula_AI) • [Discord](https://discord.gg/kawula)  
+**Discord:** `benelabs` • **Telegram:** `benelabs` • **Website:** [benelabs.tech](https://benelabs.tech)
 
 ---
 *Built for the MONOLITH Hackathon 2026*
