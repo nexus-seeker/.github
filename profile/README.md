@@ -1,6 +1,6 @@
 # Kawula
 
-![Kawula Banner](profile/banner.png)
+![Kawula Banner](banner.png)
 
 ## 🌌 AI Agent OS for Solana Mobile
 
